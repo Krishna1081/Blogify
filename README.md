@@ -1,2 +1,2 @@
 # Blogify
-A blog website where people can share their blogs. 
+A website where people can share their blogs. 
