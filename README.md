@@ -1,4 +1,5 @@
 # Blogify
+![Screenshot](https://github.com/Krishna1081/Blogify/blob/main/Blogging%20Application%20Image.png)
 Blogify is a blogging application made using Django, HTML, Bootstrap and CSS. It allows users to create, delete and update their posts and interact with the content of other users. This was made by following the guidelines provided by Corey Schafer on his channel [Youtube](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&si=V4OhbYLW9s-KipZN). 
 
 ## Table of Contents
