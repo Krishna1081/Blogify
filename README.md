@@ -44,7 +44,7 @@ Set up the database, apply migrations and runserver:
 
 
 ### Usage
-- Open your browser and navigate to http://localhost:8000 for the backend or http://localhost:3000 for the frontend.
+- Open your browser and navigate to http://localhost:8000.
 - Register a new account or log in with an existing account.
 - Create, edit, and delete blog posts.
 - Explore other users' profiles and interact with their content.
